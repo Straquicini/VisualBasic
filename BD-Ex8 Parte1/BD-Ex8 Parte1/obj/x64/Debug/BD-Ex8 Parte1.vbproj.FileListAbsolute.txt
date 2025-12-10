@@ -1,0 +1,14 @@
+E:\14642\VB\BD-Ex8 Parte1\BD-Ex8 Parte1\bin\x64\Debug\BD-Ex8 Parte1.exe.config
+E:\14642\VB\BD-Ex8 Parte1\BD-Ex8 Parte1\bin\x64\Debug\BD-Ex8 Parte1.exe
+E:\14642\VB\BD-Ex8 Parte1\BD-Ex8 Parte1\bin\x64\Debug\BD-Ex8 Parte1.pdb
+E:\14642\VB\BD-Ex8 Parte1\BD-Ex8 Parte1\bin\x64\Debug\BD-Ex8 Parte1.xml
+E:\14642\VB\BD-Ex8 Parte1\BD-Ex8 Parte1\obj\x64\Debug\BD-Ex8 Parte1.vbproj.AssemblyReference.cache
+E:\14642\VB\BD-Ex8 Parte1\BD-Ex8 Parte1\obj\x64\Debug\BD_Ex8_Parte1.Form1.resources
+E:\14642\VB\BD-Ex8 Parte1\BD-Ex8 Parte1\obj\x64\Debug\BD_Ex8_Parte1.Form2.resources
+E:\14642\VB\BD-Ex8 Parte1\BD-Ex8 Parte1\obj\x64\Debug\BD_Ex8_Parte1.Resources.resources
+E:\14642\VB\BD-Ex8 Parte1\BD-Ex8 Parte1\obj\x64\Debug\BD-Ex8 Parte1.vbproj.GenerateResource.cache
+E:\14642\VB\BD-Ex8 Parte1\BD-Ex8 Parte1\obj\x64\Debug\BD-Ex8 Parte1.vbproj.CoreCompileInputs.cache
+E:\14642\VB\BD-Ex8 Parte1\BD-Ex8 Parte1\obj\x64\Debug\BD-Ex8 Parte1.exe
+E:\14642\VB\BD-Ex8 Parte1\BD-Ex8 Parte1\obj\x64\Debug\BD-Ex8 Parte1.xml
+E:\14642\VB\BD-Ex8 Parte1\BD-Ex8 Parte1\obj\x64\Debug\BD-Ex8 Parte1.pdb
+E:\14642\VB\BD-Ex8 Parte1\BD-Ex8 Parte1\obj\x64\Debug\BD_Ex8_Parte1.Form3.resources
